@@ -20,7 +20,9 @@ Leveraging LLM/RAG, Agentic AI, Neuromorphic AI and "vibe coding" to both:
 
 **Multiple sectors** including finance, ecommerce, 3rd sector, SaaS startups and government.
 
-I **hire, manage and lead** technically advanced teams of software and data engineers and scientists. Delivering high-value services backed by Continuous Deployment and TDD.
+I **hire, manage and lead** technically advanced teams of software and data engineers and scientists. Delivering high-value services backed by **Continuous Deployment** and **TDD**.
+
+Comfortable with coaching in a formal or pair-programming environment.
 
 ---
 
