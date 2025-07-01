@@ -4,7 +4,7 @@
 Leveraging LLM/RAG, Agentic AI, Neuromorphic AI and "vibe coding" to both:
  - **accelerate** quality software development
  - deliver **AI-powered** software solutions - OpenAI, Perplexity, Qdrant etc.
- - platforms such as **Databricks** and **Microsoft Fabric**
+ - leverage custom models using platforms such as **Databricks** and **Microsoft Fabric**
 
 ---
 
